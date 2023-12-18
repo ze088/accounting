@@ -20,31 +20,31 @@
 * Strings
 * str.split() method
 * String formatting
-\
+\\
 * Conversion to list or tuple
 * List comprehension
 * str.join() method
 * sum() function
-\
+\\
 * while loop
 * if-elif-else statements
 * list, tuple, dictionary and their methods
 * enumerate() function
-\
+\\
 * File operations
-    *.* open() function
-    *.* readline() and readlines() method
-    *.* write() and writelines() method
-    *.* close() method
-    *.* with-as statements
-    *.* Stand error output (sys.stderr)
+    * open() function
+    * readline() and readlines() method
+    * write() and writelines() method
+    * close() method
+    * with-as statements
+    * Stand error output (sys.stderr)
 * Exception handling
-    ○ try-except and try-except-finally statements
-    ○ Common error types
-\
+    * try-except and try-except-finally statements
+    * Common error types
+\\
 * Functions, parameters, and return values
 * Scope of identifiers
-\
+\\
 * Lambda expressions
 * filter() function
 * Docstring
@@ -52,7 +52,7 @@
 * Recursion
 * Recursive finding
 * Indentation
-\
+\\
 * Constructor
 * Attributes
 * Methods

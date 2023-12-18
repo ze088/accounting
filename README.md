@@ -12,7 +12,7 @@ accounting.py is a money management application.
 5. "find" 查看特定種類的紀錄與總額
 6. "exit" 離開記帳小程式
 
-// 使用到的概念:
+# 使用到的概念
 * input() and print() functions 
 * Operators 
 * Integers 
@@ -20,12 +20,12 @@ accounting.py is a money management application.
 * Strings
 * str.split() method
 * String formatting
-
+-
 * Conversion to list or tuple
 * List comprehension
 * str.join() method
 * sum() function
-# \
+
 * while loop
 * if-elif-else statements
 * list, tuple, dictionary and their methods

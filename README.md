@@ -13,10 +13,16 @@ accounting.py is a money management application.
 6. "exit" 離開記帳小程式
 
 // 使用到的概念:
-* input() and print() functions
-● Operators
-● Integers
-● Variables
-● Strings
-● str.split() method
-● String formatting
+** input() and print() functions\
+* Operators\
+* Integers\
+* Variables\
+* Strings\
+* str.split() method\
+* String formatting\
+\
+**str.split() method
+*●* Conversion to list or tuple
+* List comprehension
+● str.join() method
+● sum() function

@@ -14,47 +14,47 @@ accounting.py is a money management application.
 
 // 使用到的概念:
 * input() and print() functions 
-* Operators \
-* Integers \
-* Variables\
-* Strings\
-* str.split() method\
-* String formatting\
- \
-* Conversion to list or tuple\
-* List comprehension\
-* str.join() method\
-* sum() function\
+* Operators 
+* Integers 
+* Variables
+* Strings
+* str.split() method
+* String formatting
+
+* Conversion to list or tuple
+* List comprehension
+* str.join() method
+* sum() function
+# \
+* while loop
+* if-elif-else statements
+* list, tuple, dictionary and their methods
+* enumerate() function
 \
-* while loop\
-* if-elif-else statements\
-* list, tuple, dictionary and their methods\
-* enumerate() function\
+* File operations
+    *.* open() function
+    ○ readline() and readlines() method
+    ○ write() and writelines() method
+    ○ close() method
+    ○ with-as statements
+    ○ Stand error output (sys.stderr)
+* Exception handling
+    ○ try-except and try-except-finally statements
+    ○ Common error types
 \
-* File operations\
-    *.* open() function\
-    ○ readline() and readlines() method\
-    ○ write() and writelines() method\
-    ○ close() method\
-    ○ with-as statements\
-    ○ Stand error output (sys.stderr)\
-* Exception handling\
-    ○ try-except and try-except-finally statements\
-    ○ Common error types\
+* Functions, parameters, and return values
+* Scope of identifiers
 \
-* Functions, parameters, and return values\
-* Scope of identifiers\
+* Lambda expressions
+* filter() function
+* Docstring
+* Python style guide
+* Recursion
+* Recursive finding
+* Indentation
 \
-* Lambda expressions\
-* filter() function\
-* Docstring\
-* Python style guide\
-* Recursion\
-* Recursive finding\
-* Indentation\
-\
-* Constructor\
-* Attributes\
-* Methods\
-* @property decorator\
-* Recursive generator\
+* Constructor
+* Attributes
+* Methods
+* @property decorator
+* Recursive generator

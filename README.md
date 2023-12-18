@@ -1,5 +1,5 @@
-# accounting
-accounting.py is a money management application.
+# Abstract
+// accounting.py is a money management application.
 
 // Python程式語言入門(林百祥教授)的期末作業
 
@@ -12,7 +12,7 @@ accounting.py is a money management application.
 5. "find" 查看特定種類的紀錄與總額
 6. "exit" 離開記帳小程式
 
-# 使用到的概念
+# Related Knowledges
 * input() and print() functions 
 * Operators 
 * Integers 
@@ -20,12 +20,12 @@ accounting.py is a money management application.
 * Strings
 * str.split() method
 * String formatting
--
+\
 * Conversion to list or tuple
 * List comprehension
 * str.join() method
 * sum() function
-
+\
 * while loop
 * if-elif-else statements
 * list, tuple, dictionary and their methods
@@ -33,11 +33,11 @@ accounting.py is a money management application.
 \
 * File operations
     *.* open() function
-    ○ readline() and readlines() method
-    ○ write() and writelines() method
-    ○ close() method
-    ○ with-as statements
-    ○ Stand error output (sys.stderr)
+    *.* readline() and readlines() method
+    *.* write() and writelines() method
+    *.* close() method
+    *.* with-as statements
+    *.* Stand error output (sys.stderr)
 * Exception handling
     ○ try-except and try-except-finally statements
     ○ Common error types

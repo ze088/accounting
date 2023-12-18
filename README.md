@@ -1,7 +1,7 @@
 # Abstract
 // accounting.py is a money management application.
 
-// 林百祥教授-Python程式語言入門的期末作業
+// 林百祥教授-Python程式語言入門的期末作業1
 
 // 簡易版記帳小程式的功能包括:
 
